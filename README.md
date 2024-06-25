@@ -33,7 +33,7 @@ To get started with the Krishiyan app, follow these steps:
 1. **Clone the Repository**:
 
    ```bash
-   git clone
+   git clone https://github.com/harry-sandhu/Krishiyan_app.git
 
    ```
 
