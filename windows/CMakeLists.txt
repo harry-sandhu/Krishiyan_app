@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(news_app_clean_architecture LANGUAGES CXX)
+project(Krishiyan_app LANGUAGES CXX)
 
-set(BINARY_NAME "news_app_clean_architecture")
+set(BINARY_NAME "Krishiyan_app")
 
 cmake_policy(SET CMP0063 NEW)
 
